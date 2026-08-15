@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" font-family="Helvetica,Arial,sans-serif">
+  <rect width="500" height="300" fill="#f7f9fb"/>
+  <text x="250" y="30" text-anchor="middle" font-size="16" font-weight="bold" fill="#24292f">Cognitive Co-Deception</text>
+  <!-- Human -->
+  <circle cx="110" cy="120" r="35" fill="#ddf4ff" stroke="#0969da" stroke-width="2"/>
+  <text x="110" y="126" text-anchor="middle" font-size="13" fill="#0969da" font-weight="bold">User</text>
+  <!-- AI -->
+  <circle cx="390" cy="120" r="35" fill="#fbefff" stroke="#8250df" stroke-width="2"/>
+  <text x="390" y="126" text-anchor="middle" font-size="13" fill="#8250df" font-weight="bold">AI</text>
+  <!-- Bidirectional loop arrows -->
+  <path d="M 145 100 Q 250 55 355 100" fill="none" stroke="#cf222e" stroke-width="2.5" marker-end="url(#arrow)"/>
+  <path d="M 355 140 Q 250 185 145 140" fill="none" stroke="#cf222e" stroke-width="2.5" marker-end="url(#arrow)"/>
+  <text x="250" y="66" text-anchor="middle" font-size="11" fill="#cf222e">curated self-narrative</text>
+  <text x="250" y="180" text-anchor="middle" font-size="11" fill="#cf222e">confident validation</text>
+  <!-- Shared distorted narrative -->
+  <rect x="165" y="205" width="170" height="52" rx="10" fill="#fff" stroke="#9a6700" stroke-width="2" stroke-dasharray="6 3"/>
+  <text x="250" y="226" text-anchor="middle" font-size="12" fill="#9a6700" font-weight="bold">Comfortable but</text>
+  <text x="250" y="243" text-anchor="middle" font-size="12" fill="#9a6700" font-weight="bold">distorted narrative</text>
+  <line x1="180" y1="150" x2="215" y2="203" stroke="#9a6700" stroke-width="1.5" stroke-dasharray="4 3"/>
+  <line x1="320" y1="150" x2="285" y2="203" stroke="#9a6700" stroke-width="1.5" stroke-dasharray="4 3"/>
+  <!-- Risk markers -->
+  <text x="250" y="285" text-anchor="middle" font-size="11" fill="#57606a">4 observable risk markers · formative study + sidebar-coach probe</text>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#cf222e"/></marker>
+  </defs>
+</svg>

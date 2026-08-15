@@ -1,19 +1,22 @@
 # main links
 main:
   - title: "About"
-    url: "/#about-me"        # 正确
+    url: "/#about-me"
 
   - title: "News"
-    url: "/#news"            # 正确
+    url: "/#news"
 
-  - title: "Internships"
-    url: "/#internships"     # 正确
+  - title: "Research"
+    url: "/#research"
+
+  - title: "Experience"
+    url: "/#industry-experience"
 
   - title: "Projects"
-    url: "/#selected-projects" # 正确
+    url: "/#selected-projects"
 
   - title: "Education"
-    url: "/#education"       # 修正：改成全小写
+    url: "/#education"
 
-  - title: "Certifications & Skills"
-    url: "/#certifications--skills" # 修正：& 被删掉后通常会变成双横杠，或者单横杠
+  - title: "Skills"
+    url: "/#certifications--skills"
