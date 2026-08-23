@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, I am **Jiahao (Alex) Jiang**, a final-year undergraduate at **Xi'an Jiaotong-Liverpool University (XJTLU)** majoring in **Information Management & Information Systems** (GPA 4.0/4.0), currently an **AI Engineer Intern at Amazon**.
+Hello, I am **Jiahao (Alex) Jiang**, a final-year undergraduate at **Xi'an Jiaotong-Liverpool University (XJTLU)** majoring in **Information Management & Information Systems** (GPA 3.95/4.0, WES), currently an **AI Engineer Intern at Amazon**.
 
 I work at the intersection of **AI agents and real-world systems**, on both sides of the fence:
 
@@ -126,7 +126,7 @@ I am actively looking for **graduate research opportunities (2027 Fall)** in HCI
 
 # Education
 - *2023 – 2027 (Expected)*, **Xi'an Jiaotong-Liverpool University (XJTLU)**.
-  - B.Sc. Information Management & Information Systems. **GPA: 4.0/4.0**. University Academic Excellence Award.
+  - B.Sc. Information Management & Information Systems. **GPA: 3.95/4.0 (WES)**. University Academic Excellence Award.
 - *Summer 2024*, **Duke Kunshan University (DKU)** — Machine Learning (Grade: A).
 - *Summer 2024*, **Nanyang Technological University (NTU)** — Cybersecurity (Grade: A+).
 - *Spring 2024*, **UCLA Extension** — Introduction to Data Science (Grade: A).
